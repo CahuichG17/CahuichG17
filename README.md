@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Luis, a software developer student👨‍💻 studying since 2021 🚀</div>  
+### <div align="center">Soy Enrique, un estudiante de desarrollo de Software👨‍💻 estudiando la carrera desde el 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on school projects.  
+- 🔭 Actualmente estoy trabajando en proyectos comerciales.  
   
 
-- 🌱 I’m currently learning Angular and NodeJS  
+- 🌱 Estoy aprendiendo a trabajar con el backend.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Preguntame lo que quieras, yo sabré como responder. (GPT)
   
 
-- ⚡ Fun fact: I love Christopher Nolan's movies.  
+- ⚡ Las películas de Christopher Nolan son mis favoritas.  
   
 
 <br/>  
