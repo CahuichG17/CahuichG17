@@ -6,7 +6,7 @@
 ### <div align="center">Soy Enrique, un estudiante de desarrollo de Software👨‍💻 estudiando la carrera desde el 2021 🚀</div>  
   
 
-- 🔭 Actualmente estoy trabajando en proyectos comerciales.  
+- 🔭 Actualmente estoy trabajando en proyectos privados.  
   
 
 - 🌱 Estoy aprendiendo a trabajar con el backend.  
