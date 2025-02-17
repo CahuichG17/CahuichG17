@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Soy Enrique, un estudiante de desarrollo de Software👨‍💻 estudiando la carrera desde el 2021 🚀</div>  
+### <div align="center">Hola, me llamo Enrique 🚀</div>  
   
 
-- 🔭 Actualmente estoy trabajando en proyectos privados.  
+- 🔭 Actualmente estoy trabajando en ASC Education.  
   
 
 - 🌱 Estoy aprendiendo a trabajar con el backend.  
