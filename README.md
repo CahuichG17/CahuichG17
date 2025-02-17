@@ -9,7 +9,7 @@
 - 🔭 Actualmente estoy trabajando en ASC Education.  
   
 
-- 🌱 Estoy aprendiendo a trabajar con el backend.  
+- 🌱 Me gusta mucho el backend.  
   
 
 - ❓ Preguntame lo que quieras, yo sabré como responder. (GPT)
